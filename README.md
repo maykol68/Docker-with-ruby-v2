@@ -215,7 +215,7 @@ docker-compose down --volumes
 ```
 
 
-### Otros comandos usados durante el curso:
+### Otros comandos usados:
 
 Conectarse a una base de datos de Postgres donde el usuario se llama postgres:
 
